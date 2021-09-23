@@ -1,0 +1,13 @@
+Uuid: bdedb48d25594922adb1a5bcc99f89c9
+ExtensionType: 2
+Name: 5GC API Parser
+RepoName: 5gc-api-parse
+ScreenVersion: 1.2
+SerialVersion: 1
+MinPlatformVersion: 2
+ProOnly: False
+Author: PentHertz
+ShortDescription: Allows you to assess 5G core network functions by parsing OpenAPI 3.0, and generate requests for intrusion testing purposes.
+EntryPoint: 5GC_API_parse.py
+BuildCommand: 
+SupportedProducts: Pro, Community 
